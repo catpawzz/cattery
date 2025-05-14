@@ -279,7 +279,7 @@ $current_index = array_search($current_img, $images);
     <div class="container">
         <header>
             <h1>Cattery</h1>
-            <p>A futuristic gallery featuring Yumi the cat</p>
+            <p>A futuristic gallery featuring Yumi the cat mhm</p>
         </header>
         
         <div class="gallery">
